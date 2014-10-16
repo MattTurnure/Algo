@@ -1,0 +1,19 @@
+{
+  "name": "Algo",
+  "version": "0.0.1",
+  "description": "A collection of basic algorithms",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattTurnure/Algo.git"
+  },
+  "keywords": [
+    "whiteboarding",
+    "algorithms"
+  ],
+  "author": "Matt Turnure",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
