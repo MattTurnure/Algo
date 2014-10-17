@@ -1,0 +1,21 @@
+{
+  "name": "Algo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MattTurnure/Algo",
+  "authors": [
+    "Matt Turnure <matt@mattturnure.com>"
+  ],
+  "description": "A collection of basic algorithms",
+  "keywords": [
+    "whiteboarding",
+    "algorithms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
